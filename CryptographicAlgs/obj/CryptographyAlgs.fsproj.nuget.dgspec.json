@@ -1,0 +1,49 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Home-PC\\source\\repos\\Tupper's Function Calculator\\CryptographyAlgs.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Home-PC\\source\\repos\\Tupper's Function Calculator\\CryptographyAlgs.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Home-PC\\source\\repos\\Tupper's Function Calculator\\CryptographyAlgs.fsproj",
+        "projectName": "CryptographyAlgs",
+        "projectPath": "C:\\Users\\Home-PC\\source\\repos\\Tupper's Function Calculator\\CryptographyAlgs.fsproj",
+        "packagesPath": "C:\\Users\\Home-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Home-PC\\source\\repos\\Tupper's Function Calculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Home-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

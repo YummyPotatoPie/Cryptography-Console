@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework> 
+    <RootNamespace>Tupper_s_Function_Calculator</RootNamespace> 
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Lang.fsi" />
+    <Compile Include="Lang.fs" />
+    <Compile Include="StoreAndForwardAlgs.fsi" />
+    <Compile Include="StoreAndForwardAlgs.fs" />
+    <Compile Include="SubstitutionAlgs.fsi" />
+    <Compile Include="SubstitutionAlgs.fs" />
+  </ItemGroup>
+</Project>

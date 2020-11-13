@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pxr0w+CBwe3Bpjd1v1/l4vfQYCzw4ptOGXtSK3oKHJUMWllbJ6qepswpZaax37zyBd0WhGBWtULLlL4IpuZWkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Home-PC\\source\\repos\\CryptographyConsole\\CryptographicAlgs\\CryptographicAlgs.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home-PC\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
